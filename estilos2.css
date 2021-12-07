@@ -1,0 +1,27 @@
+.centrada{
+
+	display: block;
+	  margin-left: auto;
+	    margin-right: auto;
+	    margin-top:40px;
+	      width: 300;
+		height:400px;
+
+}
+
+.imagen{
+
+	margin:auto;
+        height: 300px;											
+       	width: 200px;
+
+																                                                                                                                }
+
+																														center{
+																															        margin-top: 10px;
+																															}
+
+																														#btn{
+																															height:40px;
+																width:60px;
+																														}
